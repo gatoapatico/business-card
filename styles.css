@@ -1,0 +1,21 @@
+.main-card{
+    background-color: white;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    justify-content: space-around;
+    border-bottom: 10px solid rgb(235, 235, 235);
+}
+
+.foto{
+    width: 150px;
+}
+
+.datos{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
